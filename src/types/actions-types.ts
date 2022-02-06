@@ -2,4 +2,7 @@ export enum Actions {
   INC = 'INC',
   DEC = 'DEC',
   SET_DATA = 'SET_DATA',
+  SWITCH_MODAL='SWITCH_MODAL',
+  SET_PERSON="SET_PERSON",
+  SET_PEOPLE="SET_PEOPLE"
 }
